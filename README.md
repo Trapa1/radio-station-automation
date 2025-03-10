@@ -48,15 +48,15 @@ Once everything is set up, run:
 
 python main.py
 
-This will: ✅ Check the Google Form submissions
-✅ Find the right video in Dropbox
-✅ Download the video
-✅ Upload it to YouTube
+This will: Check the Google Form submissions
+ Find the right video in Dropbox
+ Download the video
+ Upload it to YouTube
 
  Automating the Process (So It Runs on Its Own)
 You can set up a scheduled task so you don’t have to run the script manually every time.
 
-🔹 Windows (Task Scheduler)
+ Windows (Task Scheduler)
 Open Task Scheduler.
 Click Create Basic Task.
 Choose Daily or Hourly.
