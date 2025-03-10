@@ -1,0 +1,38 @@
+# Prevent API keys and credentials from being uploaded
+client_secret.json
+youtube_service_account.json
+dropbox_access_token.txt
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore local environment configuration
+.env
+# Ignore sensitive API credentials
+client_secret.json
+youtube_service_account.json
+dropbox_access_token.txt
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore local environment configuration
+.env
+
+# Ignore sensitive API credentials
+client_secret.json
+youtube_service_account.json
+dropbox_access_token.txt
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore local environment configuration
+.env
+
